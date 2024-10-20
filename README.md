@@ -6,6 +6,6 @@ The Factory Method is a creational design pattern that provides an interface for
 
 It maintains abstraction and open close principle. Open to adding but close to modifications. Also it follows the dependency inversion principle according to which instead of taking int the dependency to know which kind of object to manufacture, it returns an object which can be overridden the subclasses.
 
-![ClassDiagram](<factoryMethod /theory/0.png>)
+![ClassDiagram](theory/0.png)
 
-![ClassDiagram](<factoryMethod /theory/1.png>)
+![ClassDiagram](theory/1.png)
